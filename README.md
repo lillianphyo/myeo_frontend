@@ -75,7 +75,7 @@ You may need to update base API URLs in your `.env` or in the Svelte `fetch` cal
 ## 🔗 Backend Repository
 
 The backend Flask server is located at:  
-➡️ [`/backend`](../backend)
+➡️ [`/backend`](https://github.com/lillianphyo/myeo-backend.git)
 
 ---
 
